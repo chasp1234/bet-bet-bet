@@ -1,9 +1,10 @@
 # BET BET BET
 
-Crypto betting product with clearly separated sections:
+Premium crypto betting product with clearly separated sections:
 - IRL Bets
+  - Live Rooms
+  - Proof Rooms
 - Games
-- Wallet
-- Profile / History
+- Wallet / Trust
 
-Status: initialized
+This repository contains the fresh static MVP foundation prepared for Netlify deployment.

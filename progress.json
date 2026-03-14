@@ -1,0 +1,20 @@
+{
+  "project": "IRL Bet Casino",
+  "status": "active",
+  "current_task": "irl-bets-live-vs-proof-pages",
+  "completed_tasks": [
+    "fresh-home-and-section-foundation"
+  ],
+  "pending_tasks": [
+    "irl-bets-live-vs-proof-pages",
+    "games-lobby-page",
+    "wallet-preview-page",
+    "global-nav-and-routing",
+    "netlify-ready-export"
+  ],
+  "notes": [
+    "Project restarted from scratch by user request.",
+    "IRL Bets and Games must be clearly separated.",
+    "Avoid ngrok; target Netlify for preview/deploy."
+  ]
+}
